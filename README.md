@@ -1,1 +1,1 @@
-# -plot-Medusa-image
+# plot-Medusa-image
